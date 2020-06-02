@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>ru.r2cloud</groupId>
 	<artifactId>rotctrldClient</artifactId>
-	<version>1.1</version>
+	<version>1.2-SNAPSHOT</version>
 	<url>https://github.com/dernasherbrezon/rotctrldClient</url>
 	<name>rotctrldClient</name>
 	<description>Java client for rotctrld daemon</description>
@@ -181,7 +181,7 @@
 		<url>https://github.com/dernasherbrezon/rotctrldClient</url>
 		<connection>scm:git:git@github.com/dernasherbrezon/rotctrldClient.git</connection>
 		<developerConnection>scm:git:https://github.com/dernasherbrezon/rotctrldClient.git</developerConnection>
-		<tag>rotctrldClient-1.1</tag>
+		<tag>rotctrldClient-1.0</tag>
 	</scm>
 
 	<issueManagement>
