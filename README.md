@@ -10,7 +10,7 @@ Java client for [rotctrld](http://hamlib.sourceforge.net/pdf/rotctld.8.pdf) daem
 <dependency>
   <groupId>ru.r2cloud</groupId>
   <artifactId>rotctrldClient</artifactId>
-  <version>1.0</version>
+  <version>1.1</version>
 </dependency>
 ```
 
